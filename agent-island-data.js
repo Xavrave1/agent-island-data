@@ -1,26 +1,26 @@
 window.AgentIslandData = {
- "ts": 1792509016199,
- "treasury": 980.23,
+ "ts": 1792514139802,
+ "treasury": 1278.34,
  "buildings": [
   {
    "id": "townhall",
    "name": "Town Hall",
-   "balance": 52.95,
+   "balance": 233.95,
    "status": "working",
    "details": {
     "currentTask": "Running the council, holding the shared fund",
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$980.23"
+      "value": "$1278.34"
      },
      {
       "label": "In bot books",
-      "value": "$852.28"
+      "value": "$950.39"
      },
      {
       "label": "Shared fund here",
-      "value": "$52.95"
+      "value": "$233.95"
      },
      {
       "label": "Council winner",
@@ -34,13 +34,13 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Shared merge fund",
-      "value": "$52.95"
+      "value": "$233.95"
      }
     ],
     "events": [
      {
       "time": "last council",
-      "text": "shift $5 of shared fund to Market Hall"
+      "text": "shift $9 of shared fund to Market Hall (win streak x3)"
      }
     ]
    }
@@ -48,22 +48,22 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 103.65,
+   "balance": 110.34,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$103.65"
+      "value": "$105.34"
      },
      {
       "label": "Council allocation",
-      "value": "$0.00"
+      "value": "$5.00"
      },
      {
       "label": "24h run",
-      "value": "-1.13%"
+      "value": "+0.49%"
      },
      {
       "label": "Rule",
@@ -73,19 +73,15 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "PUMP SHORT 5x",
-      "value": "$20.00 in, now $12.18"
+      "value": "$20.00 in, now $15.70"
      },
      {
       "label": "STRK LONG 2x",
-      "value": "$1.07 in, now $1.03"
-     },
-     {
-      "label": "TIA SHORT 5x",
-      "value": "$20.00 in, now $19.44"
+      "value": "$1.07 in, now $0.99"
      },
      {
       "label": "ZRO LONG 5x",
-      "value": "$20.00 in, now $20.74"
+      "value": "$20.00 in, now $16.22"
      }
     ],
     "events": [
@@ -167,22 +163,22 @@ window.AgentIslandData = {
   {
    "id": "market",
    "name": "Market Hall",
-   "balance": 206.49,
+   "balance": 218.55,
    "status": "working",
    "details": {
     "currentTask": "Polymarket + Kalshi, MAIN BUCKS grinding 15-minute BTC",
     "metrics": [
      {
       "label": "Book",
-      "value": "$191.49"
+      "value": "$189.55"
      },
      {
       "label": "Council allocation",
-      "value": "$15.00"
+      "value": "$29.00"
      },
      {
       "label": "24h run",
-      "value": "+3.36%"
+      "value": "+2.31%"
      },
      {
       "label": "Rule",
@@ -196,13 +192,13 @@ window.AgentIslandData = {
      },
      {
       "label": "Kalshi leg LONG 1x",
-      "value": "$91.49 in, now $91.49"
+      "value": "$89.55 in, now $89.55"
      }
     ],
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Robinhood Brokerage"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -210,14 +206,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 51.43,
+   "balance": 51.28,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$51.43"
+      "value": "$51.28"
      },
      {
       "label": "Council allocation",
@@ -225,7 +221,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.55%"
+      "value": "+0.25%"
      },
      {
       "label": "Rule",
@@ -235,11 +231,11 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$14.98 in, now $14.98"
+      "value": "$29.83 in, now $29.83"
      },
      {
       "label": "Cash LONG 1x",
-      "value": "$36.45 in, now $36.45"
+      "value": "$21.45 in, now $21.45"
      }
     ],
     "events": [
@@ -253,14 +249,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 99.35,
+   "balance": 98.35,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$99.35"
+      "value": "$98.35"
      },
      {
       "label": "Council allocation",
@@ -277,8 +273,8 @@ window.AgentIslandData = {
     ],
     "positions": [
      {
-      "label": "ALT LONG",
-      "value": "$9.94 in"
+      "label": "COMP LONG",
+      "value": "$9.83 in"
      }
     ],
     "events": [
@@ -326,14 +322,14 @@ window.AgentIslandData = {
   {
    "id": "surge",
    "name": "Surge Lab",
-   "balance": 100.0,
+   "balance": 99.53,
    "status": "working",
    "details": {
     "currentTask": "Riding intraday volatility breakouts, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$100.00"
+      "value": "$99.53"
      },
      {
       "label": "Council allocation",
@@ -348,7 +344,12 @@ window.AgentIslandData = {
       "value": "Breakout only, +5% TP / -2.5% SL screen"
      }
     ],
-    "positions": [],
+    "positions": [
+     {
+      "label": "ENA SHORT",
+      "value": "$8.30 in"
+     }
+    ],
     "events": [
      {
       "time": "last council",
@@ -360,10 +361,53 @@ window.AgentIslandData = {
   {
    "id": "duo",
    "name": "Duo House",
-   "balance": 100.0,
+   "balance": 99.98,
    "status": "working",
    "details": {
     "currentTask": "Long strongest / short weakest pairs, paper",
+    "metrics": [
+     {
+      "label": "Book",
+      "value": "$99.98"
+     },
+     {
+      "label": "Council allocation",
+      "value": "$0.00"
+     },
+     {
+      "label": "24h run",
+      "value": "+0.00%"
+     },
+     {
+      "label": "Rule",
+      "value": "Pair trades, spread capture, 8h max"
+     }
+    ],
+    "positions": [
+     {
+      "label": "kPEPE LONG",
+      "value": "$10.00 in"
+     },
+     {
+      "label": "TIA SHORT",
+      "value": "$10.00 in"
+     }
+    ],
+    "events": [
+     {
+      "time": "last council",
+      "text": "Voted for Market Hall"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sports",
+   "name": "The Sportsbook",
+   "balance": 100.0,
+   "status": "working",
+   "details": {
+    "currentTask": "Elo model on Polymarket NFL/NBA moneylines, paper",
     "metrics": [
      {
       "label": "Book",
@@ -379,10 +423,23 @@ window.AgentIslandData = {
      },
      {
       "label": "Rule",
-      "value": "Pair trades, spread capture, 8h max"
+      "value": "8+ pt edge only, $5 flat, settles on ESPN scores"
      }
     ],
-    "positions": [],
+    "positions": [
+     {
+      "label": "NE@CHI:NE LONG",
+      "value": "$5.00 in"
+     },
+     {
+      "label": "PIT@NO:NO LONG",
+      "value": "$5.00 in"
+     },
+     {
+      "label": "SF@ATL:ATL LONG",
+      "value": "$5.00 in"
+     }
+    ],
     "events": [
      {
       "time": "last council",
