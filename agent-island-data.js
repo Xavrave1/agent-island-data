@@ -1,30 +1,30 @@
 window.AgentIslandData = {
- "ts": 1792514139802,
- "treasury": 1278.34,
+ "ts": 1792522482999,
+ "treasury": 970.4,
  "buildings": [
   {
    "id": "townhall",
    "name": "Town Hall",
-   "balance": 233.95,
+   "balance": 20.95,
    "status": "working",
    "details": {
     "currentTask": "Running the council, holding the shared fund",
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$1278.34"
+      "value": "$970.40"
      },
      {
       "label": "In bot books",
-      "value": "$950.39"
+      "value": "$942.45"
      },
      {
       "label": "Shared fund here",
-      "value": "$233.95"
+      "value": "$20.95"
      },
      {
       "label": "Council winner",
-      "value": "Market Hall"
+      "value": "Chef's Kitchen"
      },
      {
       "label": "Real book (Hyperliquid)",
@@ -34,13 +34,13 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Shared merge fund",
-      "value": "$233.95"
+      "value": "$20.95"
      }
     ],
     "events": [
      {
       "time": "last council",
-      "text": "shift $9 of shared fund to Market Hall (win streak x3)"
+      "text": "shift $7 of shared fund to Chef's Kitchen (win streak x2)"
      }
     ]
    }
@@ -48,22 +48,22 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 110.34,
+   "balance": 112.88,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$105.34"
+      "value": "$105.88"
      },
      {
       "label": "Council allocation",
-      "value": "$5.00"
+      "value": "$7.00"
      },
      {
       "label": "24h run",
-      "value": "+0.49%"
+      "value": "+1.00%"
      },
      {
       "label": "Rule",
@@ -72,22 +72,22 @@ window.AgentIslandData = {
     ],
     "positions": [
      {
-      "label": "PUMP SHORT 5x",
-      "value": "$20.00 in, now $15.70"
+      "label": "STRK LONG 2x",
+      "value": "$1.07 in, now $1.02"
      },
      {
-      "label": "STRK LONG 2x",
-      "value": "$1.07 in, now $0.99"
+      "label": "PUMP SHORT 5x",
+      "value": "$20.00 in, now $14.18"
      },
      {
       "label": "ZRO LONG 5x",
-      "value": "$20.00 in, now $16.22"
+      "value": "$20.00 in, now $18.25"
      }
     ],
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Pulse Lab"
      }
     ]
    }
@@ -95,7 +95,7 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 136.58,
+   "balance": 76.58,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
@@ -106,7 +106,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Council allocation",
-      "value": "$60.00"
+      "value": "$0.00"
      },
      {
       "label": "24h run",
@@ -121,7 +121,7 @@ window.AgentIslandData = {
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -155,7 +155,7 @@ window.AgentIslandData = {
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -163,22 +163,22 @@ window.AgentIslandData = {
   {
    "id": "market",
    "name": "Market Hall",
-   "balance": 218.55,
+   "balance": 183.49,
    "status": "working",
    "details": {
     "currentTask": "Polymarket + Kalshi, MAIN BUCKS grinding 15-minute BTC",
     "metrics": [
      {
       "label": "Book",
-      "value": "$189.55"
+      "value": "$183.49"
      },
      {
       "label": "Council allocation",
-      "value": "$29.00"
+      "value": "$0.00"
      },
      {
       "label": "24h run",
-      "value": "+2.31%"
+      "value": "-0.96%"
      },
      {
       "label": "Rule",
@@ -192,7 +192,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Kalshi leg LONG 1x",
-      "value": "$89.55 in, now $89.55"
+      "value": "$83.49 in, now $83.49"
      }
     ],
     "events": [
@@ -206,14 +206,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 51.28,
+   "balance": 50.99,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$51.28"
+      "value": "$50.99"
      },
      {
       "label": "Council allocation",
@@ -221,7 +221,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.25%"
+      "value": "-0.31%"
      },
      {
       "label": "Rule",
@@ -231,7 +231,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$29.83 in, now $29.83"
+      "value": "$29.54 in, now $29.54"
      },
      {
       "label": "Cash LONG 1x",
@@ -241,7 +241,7 @@ window.AgentIslandData = {
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -249,14 +249,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 98.35,
+   "balance": 98.66,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$98.35"
+      "value": "$98.66"
      },
      {
       "label": "Council allocation",
@@ -271,16 +271,11 @@ window.AgentIslandData = {
       "value": "Momentum only, +6% TP / -3% SL screen"
      }
     ],
-    "positions": [
-     {
-      "label": "COMP LONG",
-      "value": "$9.83 in"
-     }
-    ],
+    "positions": [],
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -314,7 +309,7 @@ window.AgentIslandData = {
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -322,14 +317,14 @@ window.AgentIslandData = {
   {
    "id": "surge",
    "name": "Surge Lab",
-   "balance": 99.53,
+   "balance": 97.14,
    "status": "working",
    "details": {
     "currentTask": "Riding intraday volatility breakouts, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$99.53"
+      "value": "$97.14"
      },
      {
       "label": "Council allocation",
@@ -344,16 +339,11 @@ window.AgentIslandData = {
       "value": "Breakout only, +5% TP / -2.5% SL screen"
      }
     ],
-    "positions": [
-     {
-      "label": "ENA SHORT",
-      "value": "$8.30 in"
-     }
-    ],
+    "positions": [],
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -361,14 +351,14 @@ window.AgentIslandData = {
   {
    "id": "duo",
    "name": "Duo House",
-   "balance": 99.98,
+   "balance": 99.93,
    "status": "working",
    "details": {
     "currentTask": "Long strongest / short weakest pairs, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$99.98"
+      "value": "$99.93"
      },
      {
       "label": "Council allocation",
@@ -383,20 +373,11 @@ window.AgentIslandData = {
       "value": "Pair trades, spread capture, 8h max"
      }
     ],
-    "positions": [
-     {
-      "label": "kPEPE LONG",
-      "value": "$10.00 in"
-     },
-     {
-      "label": "TIA SHORT",
-      "value": "$10.00 in"
-     }
-    ],
+    "positions": [],
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -443,7 +424,7 @@ window.AgentIslandData = {
     "events": [
      {
       "time": "last council",
-      "text": "Voted for Market Hall"
+      "text": "Voted for Chef's Kitchen"
      }
     ]
    }
@@ -542,21 +523,21 @@ window.AgentIslandData = {
   {
    "from": "kitchen",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Pulse Lab"
   },
   {
    "from": "beacon",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Chef's Kitchen"
   },
   {
    "from": "pit",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Chef's Kitchen"
   },
   {
    "from": "townhall",
-   "to": "market",
+   "to": "kitchen",
    "text": "Council sends $5 your way"
   }
  ]
