@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792586837370,
- "treasury": 967.33,
+ "ts": 1792587739587,
+ "treasury": 967.84,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$967.33"
+      "value": "$967.84"
      },
      {
       "label": "In bot books",
-      "value": "$939.38"
+      "value": "$939.89"
      },
      {
       "label": "Shared fund here",
@@ -39,10 +39,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/21, 12:58 AM",
-      "text": "Council: hold"
-     },
-     {
       "time": "10/21, 1:58 AM",
       "text": "Council: hold"
      },
@@ -61,9 +57,13 @@ window.AgentIslandData = {
      {
       "time": "10/21, 5:58 AM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/21, 6:58 AM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -87,7 +87,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.95%"
+      "value": "-3.37%"
      },
      {
       "label": "Rule",
@@ -96,7 +96,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -134,8 +134,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "5m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -200,7 +200,7 @@ window.AgentIslandData = {
       "text": "Sold $ENERGY +25.7% (tp)"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -275,8 +275,8 @@ window.AgentIslandData = {
       "text": "Kalshi YES settled +1.97"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "4m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -284,14 +284,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 51.6,
+   "balance": 51.7,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$51.60"
+      "value": "$51.70"
      },
      {
       "label": "Council allocation",
@@ -299,7 +299,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.62%"
+      "value": "+1.57%"
      },
      {
       "label": "Rule",
@@ -309,7 +309,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$30.15 in, now $30.15"
+      "value": "$30.25 in, now $30.25"
      },
      {
       "label": "Cash LONG 1x",
@@ -342,8 +342,8 @@ window.AgentIslandData = {
       "text": "Portfolio $51.72 total ($30.27 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "17m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -351,14 +351,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 97.94,
+   "balance": 98.35,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$97.94"
+      "value": "$98.35"
      },
      {
       "label": "Council allocation",
@@ -366,7 +366,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.42%"
+      "value": "-1.71%"
      },
      {
       "label": "Rule",
@@ -417,8 +417,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG CASHCAT"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -455,7 +455,7 @@ window.AgentIslandData = {
       "text": "exit sl: LONG SAND -0.68"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
@@ -509,8 +509,8 @@ window.AgentIslandData = {
       "text": "exit TIME: SHORT XMR +0.15"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "6m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -584,8 +584,8 @@ window.AgentIslandData = {
       "text": "entry pair: SHORT NIL"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "6m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -647,8 +647,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
-    "heartbeat": "13m ago",
+    "updatedAt": "10/21, 7:02 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -701,7 +701,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -764,7 +764,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 6:47 AM",
+    "updatedAt": "10/21, 7:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
