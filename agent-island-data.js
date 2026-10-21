@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792625533230,
- "treasury": 967.34,
+ "ts": 1792625619750,
+ "treasury": 967.4,
  "buildings": [
   {
    "id": "townhall",
@@ -12,23 +12,27 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$967.34"
+      "value": "$967.40"
      },
      {
       "label": "In bot books",
-      "value": "$939.39"
+      "value": "$939.45"
      },
      {
       "label": "Shared fund here",
       "value": "$0.00"
      },
      {
-      "label": "Council winner",
-      "value": "Market Hall"
-     },
-     {
       "label": "Real book (Hyperliquid)",
       "value": "$35.43, separate"
+     },
+     {
+      "label": "Market regime",
+      "value": "CHOP"
+     },
+     {
+      "label": "Council winner",
+      "value": "Market Hall"
      }
     ],
     "positions": [
@@ -63,7 +67,7 @@ window.AgentIslandData = {
       "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
+    "updatedAt": "10/21, 5:33 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -90,13 +94,21 @@ window.AgentIslandData = {
       "value": "-0.78%"
      },
      {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "0.75x"
+     },
+     {
       "label": "Rule",
       "value": "Entries need Mala + ChatGPT + Gemini to approve"
      }
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 5:32 PM",
+    "updatedAt": "10/21, 5:33 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -123,8 +135,16 @@ window.AgentIslandData = {
       "value": "+1.34%"
      },
      {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "1.25x"
+     },
+     {
       "label": "Rule",
-      "value": "25-0 record, conviction only"
+      "value": "25-1 record, conviction only"
      }
     ],
     "positions": [],
@@ -134,8 +154,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "18m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "20m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -159,6 +179,14 @@ window.AgentIslandData = {
      {
       "label": "24h run",
       "value": "+0.00%"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "1.0x"
      },
      {
       "label": "Rule",
@@ -200,7 +228,7 @@ window.AgentIslandData = {
       "text": "Sold $ENERGY +25.7% (tp)"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
+    "updatedAt": "10/21, 5:33 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -212,7 +240,7 @@ window.AgentIslandData = {
    "balance": 184.56,
    "status": "working",
    "details": {
-    "currentTask": "Polymarket + Kalshi, MAIN BUCKS grinding 15-minute BTC",
+    "currentTask": "Polymarket MAIN BUCKS grinding 15-minute BTC",
     "metrics": [
      {
       "label": "Book",
@@ -225,6 +253,14 @@ window.AgentIslandData = {
      {
       "label": "24h run",
       "value": "+3.47%"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "1.5x"
      },
      {
       "label": "Rule",
@@ -275,8 +311,8 @@ window.AgentIslandData = {
       "text": "Polymarket NO settled -2.04"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -284,14 +320,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 51.05,
+   "balance": 51.11,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$51.05"
+      "value": "$51.11"
      },
      {
       "label": "Council allocation",
@@ -299,7 +335,15 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.33%"
+      "value": "-2.22%"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "0.75x"
      },
      {
       "label": "Rule",
@@ -309,7 +353,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$29.60 in, now $29.60"
+      "value": "$29.66 in, now $29.66"
      },
      {
       "label": "Cash LONG 1x",
@@ -342,8 +386,8 @@ window.AgentIslandData = {
       "text": "Portfolio $51.18 total ($29.73 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "20m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "22m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -367,6 +411,14 @@ window.AgentIslandData = {
      {
       "label": "24h run",
       "value": "+1.47%"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "1.25x"
      },
      {
       "label": "Rule",
@@ -413,8 +465,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG ALT"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -440,8 +492,16 @@ window.AgentIslandData = {
       "value": "-2.29%"
      },
      {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "0.5x"
+     },
+     {
       "label": "Rule",
-      "value": "Only extreme funding, +4% TP / -2.5% SL screen"
+      "value": "Only extreme funding, +4% TP / -2.5% SL screen, 4h cooldown after SL"
      }
     ],
     "positions": [],
@@ -479,8 +539,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "4m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -504,6 +564,14 @@ window.AgentIslandData = {
      {
       "label": "24h run",
       "value": "-1.03%"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "0.75x"
      },
      {
       "label": "Rule",
@@ -537,8 +605,8 @@ window.AgentIslandData = {
       "text": "exit SL: SHORT LIT -0.73"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -549,7 +617,7 @@ window.AgentIslandData = {
    "balance": 95.65,
    "status": "working",
    "details": {
-    "currentTask": "Long strongest / short weakest pairs, paper",
+    "currentTask": "Stat arb pairs, z-score mean reversion, paper",
     "metrics": [
      {
       "label": "Book",
@@ -564,8 +632,16 @@ window.AgentIslandData = {
       "value": "-3.99%"
      },
      {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "0.5x"
+     },
+     {
       "label": "Rule",
-      "value": "Pair trades, spread capture, 8h max"
+      "value": "Corr >0.85 pairs, enter |z|>2, exit |z|<0.5"
      }
     ],
     "positions": [],
@@ -603,8 +679,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT CASHCAT +0.20"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "9m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -632,6 +708,14 @@ window.AgentIslandData = {
      {
       "label": "Open bets",
       "value": "3"
+     },
+     {
+      "label": "Council status",
+      "value": "Active"
+     },
+     {
+      "label": "Size multiplier",
+      "value": "1.0x"
      },
      {
       "label": "Rule",
@@ -666,8 +750,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
-    "heartbeat": "28m ago",
+    "updatedAt": "10/21, 5:33 PM",
+    "heartbeat": "30m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -720,7 +804,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
+    "updatedAt": "10/21, 5:33 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -783,7 +867,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 5:32 PM",
+    "updatedAt": "10/21, 5:33 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
