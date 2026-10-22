@@ -1,26 +1,26 @@
 window.AgentIslandData = {
- "ts": 1792627037280,
- "treasury": 934.91,
+ "ts": 1792627335396,
+ "treasury": 933.04,
  "buildings": [
   {
    "id": "townhall",
    "name": "Town Hall",
-   "balance": 0.0,
+   "balance": 10.0,
    "status": "working",
    "details": {
     "currentTask": "Running the council, holding the shared fund",
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$934.91"
+      "value": "$933.04"
      },
      {
       "label": "In bot books",
-      "value": "$906.96"
+      "value": "$905.09"
      },
      {
       "label": "Shared fund here",
-      "value": "$0.00"
+      "value": "$10.00"
      },
      {
       "label": "Real book (Hyperliquid)",
@@ -32,20 +32,20 @@ window.AgentIslandData = {
      },
      {
       "label": "Council winner",
-      "value": "Market Hall"
+      "value": "Flawless Tower"
+     },
+     {
+      "label": "Paused by council",
+      "value": "The Trench Pit"
      }
     ],
     "positions": [
      {
       "label": "Shared merge fund",
-      "value": "$0.00"
+      "value": "$10.00"
      }
     ],
     "events": [
-     {
-      "time": "10/21, 12:33 PM",
-      "text": "Council: hold"
-     },
      {
       "time": "10/21, 12:59 PM",
       "text": "Council: hold"
@@ -65,9 +65,13 @@ window.AgentIslandData = {
      {
       "time": "10/21, 4:58 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/21, 5:59 PM",
+      "text": "Council: hold; penalty $10 clawed from The Trench Pit (worst at -95.3%); AUTO-PAUSED The Trench Pit (down >5% in 24h)"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
+    "updatedAt": "10/21, 6:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -108,7 +112,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 5:57 PM",
+    "updatedAt": "10/21, 6:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -154,8 +158,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -163,7 +167,7 @@ window.AgentIslandData = {
   {
    "id": "pit",
    "name": "The Trench Pit",
-   "balance": 13.43,
+   "balance": 3.43,
    "status": "working",
    "details": {
     "currentTask": "Copying wallet buys, protecting profits first",
@@ -174,7 +178,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Council allocation",
-      "value": "$11.95"
+      "value": "$1.95"
      },
      {
       "label": "24h run",
@@ -182,11 +186,11 @@ window.AgentIslandData = {
      },
      {
       "label": "Council status",
-      "value": "Active"
+      "value": "PAUSED by council"
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -228,7 +232,7 @@ window.AgentIslandData = {
       "text": "Sold $Macca -100.0% (rug)"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
+    "updatedAt": "10/21, 6:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -237,14 +241,14 @@ window.AgentIslandData = {
   {
    "id": "market",
    "name": "Market Hall",
-   "balance": 182.49,
+   "balance": 180.45,
    "status": "working",
    "details": {
     "currentTask": "Polymarket MAIN BUCKS grinding 15-minute BTC",
     "metrics": [
      {
       "label": "Book",
-      "value": "$182.49"
+      "value": "$180.45"
      },
      {
       "label": "Council allocation",
@@ -252,7 +256,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+2.31%"
+      "value": "+1.17%"
      },
      {
       "label": "Council status",
@@ -260,7 +264,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.5x"
+      "value": "1.25x"
      },
      {
       "label": "Rule",
@@ -270,7 +274,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Polymarket leg LONG 1x",
-      "value": "$102.71 in, now $102.71"
+      "value": "$100.67 in, now $100.67"
      },
      {
       "label": "Kalshi leg LONG 1x",
@@ -278,10 +282,6 @@ window.AgentIslandData = {
      }
     ],
     "events": [
-     {
-      "time": "",
-      "text": "Polymarket YES settled +1.03"
-     },
      {
       "time": "",
       "text": "Polymarket NO settled -2.01"
@@ -309,10 +309,14 @@ window.AgentIslandData = {
      {
       "time": "",
       "text": "Polymarket NO settled -2.04"
+     },
+     {
+      "time": "",
+      "text": "Polymarket YES settled -2.07"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "13m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -320,14 +324,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 50.9,
+   "balance": 51.07,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$50.90"
+      "value": "$51.07"
      },
      {
       "label": "Council allocation",
@@ -335,7 +339,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.62%"
+      "value": "-1.86%"
      },
      {
       "label": "Council status",
@@ -343,7 +347,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -353,7 +357,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$29.45 in, now $29.45"
+      "value": "$29.62 in, now $29.62"
      },
      {
       "label": "Cash LONG 1x",
@@ -386,8 +390,8 @@ window.AgentIslandData = {
       "text": "Portfolio $51.18 total ($29.73 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "45m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "50m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -410,7 +414,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+1.41%"
+      "value": "+1.01%"
      },
      {
       "label": "Council status",
@@ -465,8 +469,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG ALT"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "6m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "11m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -539,8 +543,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "27m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -563,7 +567,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-1.03%"
+      "value": "-0.91%"
      },
      {
       "label": "Council status",
@@ -605,8 +609,8 @@ window.AgentIslandData = {
       "text": "exit SL: SHORT LIT -0.73"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -629,7 +633,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-3.99%"
+      "value": "-3.84%"
      },
      {
       "label": "Council status",
@@ -679,8 +683,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT CASHCAT +0.20"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -750,8 +754,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/21, 6:02 PM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -804,7 +808,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
+    "updatedAt": "10/21, 6:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -867,7 +871,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 5:57 PM",
+    "updatedAt": "10/21, 6:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -878,7 +882,7 @@ window.AgentIslandData = {
   {
    "from": "kitchen",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Flawless Tower"
   },
   {
    "from": "beacon",
@@ -888,7 +892,12 @@ window.AgentIslandData = {
   {
    "from": "pit",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Flawless Tower"
+  },
+  {
+   "from": "townhall",
+   "to": "beacon",
+   "text": "Council sends $5 your way"
   }
  ]
 };
