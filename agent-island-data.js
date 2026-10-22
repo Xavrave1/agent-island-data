@@ -1,5 +1,5 @@
 window.AgentIslandData = {
- "ts": 1792697231123,
+ "ts": 1792697531101,
  "treasury": 965.39,
  "buildings": [
   {
@@ -71,7 +71,7 @@ window.AgentIslandData = {
       "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
+    "updatedAt": "10/22, 1:32 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -112,7 +112,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/22, 1:27 PM",
+    "updatedAt": "10/22, 1:32 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -158,8 +158,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -241,8 +241,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled -2.05"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -316,8 +316,8 @@ window.AgentIslandData = {
       "text": "Portfolio $49.64 total ($30.25 equity + $19.39 cash)"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "5m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "10m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -390,8 +390,8 @@ window.AgentIslandData = {
       "text": "exit TP: SHORT ALT +0.23"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -464,8 +464,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG ALT -1.87"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "11m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -515,10 +515,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/22, 12:10 AM",
-      "text": "entry breakout: LONG XMR"
-     },
-     {
       "time": "10/22, 3:10 AM",
       "text": "exit SL: LONG XMR -0.15"
      },
@@ -547,8 +543,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT GRAM"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -605,8 +601,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT SOL +0.11"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "6m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -676,8 +672,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/22, 1:32 PM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -705,7 +701,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/22, 1:27 PM",
+    "updatedAt": "10/22, 1:32 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -759,7 +755,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
+    "updatedAt": "10/22, 1:32 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -822,7 +818,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/22, 1:27 PM",
+    "updatedAt": "10/22, 1:32 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
