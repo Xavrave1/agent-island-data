@@ -1,26 +1,26 @@
 window.AgentIslandData = {
- "ts": 1792627335396,
- "treasury": 933.04,
+ "ts": 1792627632887,
+ "treasury": 1032.06,
  "buildings": [
   {
    "id": "townhall",
    "name": "Town Hall",
-   "balance": 10.0,
+   "balance": 11.95,
    "status": "working",
    "details": {
     "currentTask": "Running the council, holding the shared fund",
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$933.04"
+      "value": "$1032.06"
      },
      {
       "label": "In bot books",
-      "value": "$905.09"
+      "value": "$1004.11"
      },
      {
       "label": "Shared fund here",
-      "value": "$10.00"
+      "value": "$11.95"
      },
      {
       "label": "Real book (Hyperliquid)",
@@ -42,7 +42,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Shared merge fund",
-      "value": "$10.00"
+      "value": "$11.95"
      }
     ],
     "events": [
@@ -71,7 +71,7 @@ window.AgentIslandData = {
       "text": "Council: hold; penalty $10 clawed from The Trench Pit (worst at -95.3%); AUTO-PAUSED The Trench Pit (down >5% in 24h)"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
+    "updatedAt": "10/21, 6:07 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -112,8 +112,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -158,8 +158,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -167,22 +167,22 @@ window.AgentIslandData = {
   {
    "id": "pit",
    "name": "The Trench Pit",
-   "balance": 3.43,
+   "balance": 100.0,
    "status": "working",
    "details": {
     "currentTask": "Copying wallet buys, protecting profits first",
     "metrics": [
      {
       "label": "Book",
-      "value": "$1.48"
+      "value": "$100.00"
      },
      {
       "label": "Council allocation",
-      "value": "$1.95"
+      "value": "$0.00"
      },
      {
       "label": "24h run",
-      "value": "-95.32%"
+      "value": "+216.16%"
      },
      {
       "label": "Council status",
@@ -198,43 +198,10 @@ window.AgentIslandData = {
      }
     ],
     "positions": [],
-    "events": [
-     {
-      "time": "10/20, 1:14 PM",
-      "text": "Bought $ENERGY $15 via @bigbabba"
-     },
-     {
-      "time": "10/20, 1:16 PM",
-      "text": "Sold $ENERGY +25.7% (tp)"
-     },
-     {
-      "time": "10/21, 5:52 PM",
-      "text": "Bought $TTWO $10 via @OinkersRUs"
-     },
-     {
-      "time": "10/21, 5:52 PM",
-      "text": "Bought $Dacity $10 via @0xSilver"
-     },
-     {
-      "time": "10/21, 5:52 PM",
-      "text": "Bought $Macca $10 via @bystevenr"
-     },
-     {
-      "time": "10/21, 5:54 PM",
-      "text": "Sold $TTWO -100.0% (rug)"
-     },
-     {
-      "time": "10/21, 5:54 PM",
-      "text": "Sold $Dacity -100.0% (rug)"
-     },
-     {
-      "time": "10/21, 5:54 PM",
-      "text": "Sold $Macca -100.0% (rug)"
-     }
-    ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "just now",
-    "health": "Healthy",
+    "events": [],
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "\u2014",
+    "health": "Stale",
     "queueDepth": 0
    }
   },
@@ -315,8 +282,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled -2.07"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "8m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -324,14 +291,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 51.07,
+   "balance": 51.26,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$51.07"
+      "value": "$51.26"
      },
      {
       "label": "Council allocation",
@@ -339,7 +306,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-1.86%"
+      "value": "-1.50%"
      },
      {
       "label": "Council status",
@@ -357,7 +324,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$29.62 in, now $29.62"
+      "value": "$29.81 in, now $29.81"
      },
      {
       "label": "Cash LONG 1x",
@@ -390,8 +357,8 @@ window.AgentIslandData = {
       "text": "Portfolio $51.18 total ($29.73 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "50m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "55m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -399,14 +366,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 99.56,
+   "balance": 99.87,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$99.56"
+      "value": "$99.87"
      },
      {
       "label": "Council allocation",
@@ -414,7 +381,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+1.01%"
+      "value": "+1.33%"
      },
      {
       "label": "Council status",
@@ -469,8 +436,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG ALT"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "11m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -543,8 +510,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "8m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -609,8 +576,8 @@ window.AgentIslandData = {
       "text": "exit SL: SHORT LIT -0.73"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "6m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -683,8 +650,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT CASHCAT +0.20"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -754,8 +721,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
-    "heartbeat": "28m ago",
+    "updatedAt": "10/21, 6:07 PM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -808,7 +775,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
+    "updatedAt": "10/21, 6:07 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -824,7 +791,7 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Fixes in queue",
-      "value": "11"
+      "value": "12"
      },
      {
       "label": "Fixed today",
@@ -840,10 +807,6 @@ window.AgentIslandData = {
      }
     ],
     "positions": [
-     {
-      "label": "Surge Lab",
-      "value": "Book read failed this council (showing last known)"
-     },
      {
       "label": "Surge Lab",
       "value": "Surge state stale over 25 min (cycle may be down)"
@@ -863,6 +826,10 @@ window.AgentIslandData = {
      {
       "label": "The Trench Pit",
       "value": "Trench equity dropped hard: $31.63 -> $1.48"
+     },
+     {
+      "label": "The Trench Pit",
+      "value": "Trench state file stale over 15 min (trader loop may be down)"
      }
     ],
     "events": [
@@ -871,7 +838,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 6:02 PM",
+    "updatedAt": "10/21, 6:07 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
