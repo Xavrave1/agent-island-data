@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792634829985,
- "treasury": 969.97,
+ "ts": 1792635146482,
+ "treasury": 970.16,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$969.97"
+      "value": "$970.16"
      },
      {
       "label": "In bot books",
-      "value": "$911.49"
+      "value": "$911.68"
      },
      {
       "label": "Shared fund here",
@@ -67,7 +67,7 @@ window.AgentIslandData = {
       "text": "Council: shift $7 of shared fund to Market Hall (win streak x2)"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
+    "updatedAt": "10/21, 8:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -108,8 +108,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -154,8 +154,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "26m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "31m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -237,8 +237,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +1.11"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "8m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "14m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -312,8 +312,8 @@ window.AgentIslandData = {
       "text": "Portfolio $50.98 total ($29.53 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "39m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "44m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -391,8 +391,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG ALT"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "9m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "14m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -465,8 +465,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -474,14 +474,14 @@ window.AgentIslandData = {
   {
    "id": "surge",
    "name": "Surge Lab",
-   "balance": 98.0,
+   "balance": 98.2,
    "status": "working",
    "details": {
     "currentTask": "Riding intraday volatility breakouts, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$98.00"
+      "value": "$98.20"
      },
      {
       "label": "Council allocation",
@@ -489,7 +489,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-1.08%"
+      "value": "-0.88%"
      },
      {
       "label": "Council status",
@@ -507,6 +507,10 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "ZEC SHORT",
+      "value": "$4.60 in"
+     },
+     {
+      "label": "XMR SHORT",
       "value": "$4.60 in"
      }
     ],
@@ -538,25 +542,29 @@ window.AgentIslandData = {
      {
       "time": "10/21, 6:10 PM",
       "text": "entry breakout: SHORT ZEC"
+     },
+     {
+      "time": "10/21, 8:10 PM",
+      "text": "entry breakout: SHORT XMR"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
-    "queueDepth": 1
+    "queueDepth": 2
    }
   },
   {
    "id": "duo",
    "name": "Duo House",
-   "balance": 95.65,
+   "balance": 95.64,
    "status": "working",
    "details": {
     "currentTask": "Stat arb pairs, z-score mean reversion, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$95.65"
+      "value": "$95.64"
      },
      {
       "label": "Council allocation",
@@ -564,7 +572,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-3.66%"
+      "value": "-3.67%"
      },
      {
       "label": "Council status",
@@ -579,16 +587,17 @@ window.AgentIslandData = {
       "value": "Corr >0.85 pairs, enter |z|>2, exit |z|<0.5"
      }
     ],
-    "positions": [],
+    "positions": [
+     {
+      "label": "SOL LONG",
+      "value": "$5.00 in"
+     },
+     {
+      "label": "NEAR SHORT",
+      "value": "$5.00 in"
+     }
+    ],
     "events": [
-     {
-      "time": "10/21, 1:40 PM",
-      "text": "entry pair: LONG ALT"
-     },
-     {
-      "time": "10/21, 1:40 PM",
-      "text": "entry pair: SHORT INJ"
-     },
      {
       "time": "10/21, 2:09 PM",
       "text": "exit SL_LEG: LONG ALT -0.31"
@@ -612,12 +621,20 @@ window.AgentIslandData = {
      {
       "time": "10/21, 4:09 PM",
       "text": "exit REVERTED: SHORT CASHCAT +0.20"
+     },
+     {
+      "time": "10/21, 8:11 PM",
+      "text": "entry pair z-score: LONG SOL"
+     },
+     {
+      "time": "10/21, 8:11 PM",
+      "text": "entry pair z-score: SHORT NEAR"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "27m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
-    "queueDepth": 0
+    "queueDepth": 2
    }
   },
   {
@@ -685,8 +702,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/21, 8:12 PM",
+    "heartbeat": "8m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -739,7 +756,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
+    "updatedAt": "10/21, 8:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -802,7 +819,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 8:07 PM",
+    "updatedAt": "10/21, 8:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
