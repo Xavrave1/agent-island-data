@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792655846382,
- "treasury": 955.43,
+ "ts": 1792656157520,
+ "treasury": 955.56,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$955.43"
+      "value": "$955.56"
      },
      {
       "label": "In bot books",
-      "value": "$896.95"
+      "value": "$897.08"
      },
      {
       "label": "Shared fund here",
@@ -43,10 +43,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/21, 7:58 PM",
-      "text": "Council: shift $7 of shared fund to Market Hall (win streak x2)"
-     },
-     {
       "time": "10/21, 8:58 PM",
       "text": "Council: shift $9 of shared fund to Market Hall (win streak x3)"
      },
@@ -65,9 +61,13 @@ window.AgentIslandData = {
      {
       "time": "10/22, 12:58 AM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/22, 1:58 AM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
+    "updatedAt": "10/22, 2:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -76,14 +76,14 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 118.2,
+   "balance": 118.4,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$102.20"
+      "value": "$102.40"
      },
      {
       "label": "Council allocation",
@@ -91,7 +91,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.03%"
+      "value": "+0.17%"
      },
      {
       "label": "Council status",
@@ -99,19 +99,14 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "1.0x"
      },
      {
       "label": "Rule",
       "value": "Entries need Mala + ChatGPT + Gemini to approve"
      }
     ],
-    "positions": [
-     {
-      "label": "STRK SHORT 3x",
-      "value": "$30.00 in, now $29.97"
-     }
-    ],
+    "positions": [],
     "events": [
      {
       "time": "10/22, 12:14 AM",
@@ -126,10 +121,10 @@ window.AgentIslandData = {
       "text": "Entered STRK short 3x"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "just now",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
-    "queueDepth": 1
+    "queueDepth": 0
    }
   },
   {
@@ -172,8 +167,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "15m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "20m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -204,7 +199,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.5x"
+      "value": "1.25x"
      },
      {
       "label": "Rule",
@@ -255,8 +250,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled -2.11"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "10m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "16m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -264,14 +259,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 49.63,
+   "balance": 49.56,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$49.63"
+      "value": "$49.56"
      },
      {
       "label": "Council allocation",
@@ -279,7 +274,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-3.59%"
+      "value": "-4.38%"
      },
      {
       "label": "Council status",
@@ -297,7 +292,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$28.18 in, now $28.18"
+      "value": "$28.11 in, now $28.11"
      },
      {
       "label": "Cash LONG 1x",
@@ -330,7 +325,7 @@ window.AgentIslandData = {
       "text": "Portfolio $50.066 total ($28.62 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
+    "updatedAt": "10/22, 2:02 AM",
     "heartbeat": "2h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -354,7 +349,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-4.24%"
+      "value": "-4.40%"
      },
      {
       "label": "Council status",
@@ -409,8 +404,8 @@ window.AgentIslandData = {
       "text": "entry momentum: SHORT CASHCAT"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "17m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "22m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -455,8 +450,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -534,8 +529,8 @@ window.AgentIslandData = {
       "text": "entry breakout: LONG XMR"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "6m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -558,7 +553,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.73%"
+      "value": "-2.48%"
      },
      {
       "label": "Council status",
@@ -608,8 +603,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT NEAR +0.33"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -679,8 +674,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/22, 2:02 AM",
+    "heartbeat": "29m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -733,7 +728,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
+    "updatedAt": "10/22, 2:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -749,7 +744,7 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Fixes in queue",
-      "value": "60"
+      "value": "62"
      },
      {
       "label": "Fixed today",
@@ -767,14 +762,6 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Robinhood Brokerage",
-      "value": "Robinhood at $49.69, at the $50 challenge floor"
-     },
-     {
-      "label": "Robinhood Brokerage",
-      "value": "Robinhood at $49.71, at the $50 challenge floor"
-     },
-     {
-      "label": "Robinhood Brokerage",
       "value": "Robinhood at $49.72, at the $50 challenge floor"
      },
      {
@@ -788,6 +775,14 @@ window.AgentIslandData = {
      {
       "label": "Robinhood Brokerage",
       "value": "Robinhood at $49.63, at the $50 challenge floor"
+     },
+     {
+      "label": "Robinhood Brokerage",
+      "value": "Robinhood at $49.60, at the $50 challenge floor"
+     },
+     {
+      "label": "Robinhood Brokerage",
+      "value": "Robinhood at $49.56, at the $50 challenge floor"
      }
     ],
     "events": [
@@ -796,7 +791,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/22, 1:57 AM",
+    "updatedAt": "10/22, 2:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -817,7 +812,7 @@ window.AgentIslandData = {
   {
    "from": "market",
    "to": "townhall",
-   "text": "Vote: Flawless Tower"
+   "text": "Vote: Chef's Kitchen"
   }
  ]
 };
