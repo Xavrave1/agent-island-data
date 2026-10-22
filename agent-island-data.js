@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792646543230,
- "treasury": 968.05,
+ "ts": 1792646830449,
+ "treasury": 967.87,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$968.05"
+      "value": "$967.87"
      },
      {
       "label": "In bot books",
-      "value": "$909.57"
+      "value": "$909.39"
      },
      {
       "label": "Shared fund here",
@@ -67,7 +67,7 @@ window.AgentIslandData = {
       "text": "Council: shift $10 of shared fund to Market Hall (win streak x5)"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
+    "updatedAt": "10/21, 11:27 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -108,7 +108,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/21, 11:22 PM",
+    "updatedAt": "10/21, 11:27 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -154,8 +154,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "4m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -237,8 +237,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled -2.19"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "9m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "13m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -246,14 +246,14 @@ window.AgentIslandData = {
   {
    "id": "broker",
    "name": "Robinhood Brokerage",
-   "balance": 50.05,
+   "balance": 49.98,
    "status": "working",
    "details": {
     "currentTask": "The $100 challenge, deadline Nov 15",
     "metrics": [
      {
       "label": "Book",
-      "value": "$50.05"
+      "value": "$49.98"
      },
      {
       "label": "Council allocation",
@@ -261,7 +261,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.25%"
+      "value": "-2.38%"
      },
      {
       "label": "Council status",
@@ -279,7 +279,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "Equities LONG 1x",
-      "value": "$28.60 in, now $28.60"
+      "value": "$28.53 in, now $28.53"
      },
      {
       "label": "Cash LONG 1x",
@@ -312,8 +312,8 @@ window.AgentIslandData = {
       "text": "Portfolio $50.081 total ($28.631 equity + $21.45 cash)"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "32m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "37m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -321,14 +321,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 97.09,
+   "balance": 96.98,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$97.09"
+      "value": "$96.98"
      },
      {
       "label": "Council allocation",
@@ -336,7 +336,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.89%"
+      "value": "-1.00%"
      },
      {
       "label": "Council status",
@@ -391,8 +391,8 @@ window.AgentIslandData = {
       "text": "entry momentum: LONG ALT"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -457,8 +457,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG W -1.14"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -540,8 +540,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT WLD"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "6m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -614,8 +614,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT NEAR +0.33"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "5m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -685,8 +685,8 @@ window.AgentIslandData = {
       "text": "Bet ATL (SF@ATL) $5 @ 0.370, edge +22.2%"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
-    "heartbeat": "18m ago",
+    "updatedAt": "10/21, 11:27 PM",
+    "heartbeat": "23m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -739,7 +739,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
+    "updatedAt": "10/21, 11:27 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -755,7 +755,7 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Fixes in queue",
-      "value": "38"
+      "value": "39"
      },
      {
       "label": "Fixed today",
@@ -771,10 +771,6 @@ window.AgentIslandData = {
      }
     ],
     "positions": [
-     {
-      "label": "Robinhood Brokerage",
-      "value": "Robinhood at $50.10, at the $50 challenge floor"
-     },
      {
       "label": "Robinhood Brokerage",
       "value": "Robinhood at $50.03, at the $50 challenge floor"
@@ -794,6 +790,10 @@ window.AgentIslandData = {
      {
       "label": "Robinhood Brokerage",
       "value": "Robinhood at $50.05, at the $50 challenge floor"
+     },
+     {
+      "label": "Robinhood Brokerage",
+      "value": "Robinhood at $49.98, at the $50 challenge floor"
      }
     ],
     "events": [
@@ -802,7 +802,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/21, 11:22 PM",
+    "updatedAt": "10/21, 11:27 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
