@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792770776310,
- "treasury": 962.69,
+ "ts": 1792771036795,
+ "treasury": 961.22,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$962.69"
+      "value": "$961.22"
      },
      {
       "label": "In bot books",
-      "value": "$943.74"
+      "value": "$942.27"
      },
      {
       "label": "Shared fund here",
@@ -71,7 +71,7 @@ window.AgentIslandData = {
       "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
+    "updatedAt": "10/23, 9:57 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -133,8 +133,8 @@ window.AgentIslandData = {
       "text": "Entered LIT short 3x"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -179,8 +179,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "5m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -262,8 +262,8 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "49m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "53m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -337,8 +337,8 @@ window.AgentIslandData = {
       "text": "Portfolio $49.25 total ($39.86 equity + $9.39 cash)"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "11m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "16m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -346,14 +346,14 @@ window.AgentIslandData = {
   {
    "id": "pulse",
    "name": "Pulse Lab",
-   "balance": 93.69,
+   "balance": 92.21,
    "status": "working",
    "details": {
     "currentTask": "Riding the strongest Hyperliquid momentum, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$93.69"
+      "value": "$92.21"
      },
      {
       "label": "Council allocation",
@@ -361,7 +361,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.44%"
+      "value": "-2.01%"
      },
      {
       "label": "Council status",
@@ -382,19 +382,11 @@ window.AgentIslandData = {
       "value": "$7.06 in"
      },
      {
-      "label": "INIT SHORT",
-      "value": "$5.27 in"
+      "label": "USELESS LONG",
+      "value": "$6.22 in"
      }
     ],
     "events": [
-     {
-      "time": "10/23, 8:05 AM",
-      "text": "entry momentum: LONG kPEPE"
-     },
-     {
-      "time": "10/23, 8:16 AM",
-      "text": "exit SL: LONG kPEPE -0.90"
-     },
      {
       "time": "10/23, 8:16 AM",
       "text": "entry momentum: LONG kPEPE"
@@ -418,9 +410,17 @@ window.AgentIslandData = {
      {
       "time": "10/23, 9:51 AM",
       "text": "entry momentum: SHORT INIT"
+     },
+     {
+      "time": "10/23, 9:56 AM",
+      "text": "exit SL: SHORT INIT -1.47"
+     },
+     {
+      "time": "10/23, 9:56 AM",
+      "text": "entry momentum: LONG USELESS"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
+    "updatedAt": "10/23, 9:57 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 2
@@ -494,8 +494,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG SOPH -2.17"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "8m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -577,8 +577,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT AERO"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -586,14 +586,14 @@ window.AgentIslandData = {
   {
    "id": "duo",
    "name": "Duo House",
-   "balance": 95.61,
+   "balance": 95.62,
    "status": "working",
    "details": {
     "currentTask": "Stat arb pairs, z-score mean reversion, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$95.61"
+      "value": "$95.62"
      },
      {
       "label": "Council allocation",
@@ -601,7 +601,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.25%"
+      "value": "-0.24%"
      },
      {
       "label": "Council status",
@@ -644,8 +644,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT SOL"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -727,8 +727,8 @@ window.AgentIslandData = {
       "text": "Bet TEN (CLE@TEN) $5 @ 0.455, edge +13.8%"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
-    "heartbeat": "18m ago",
+    "updatedAt": "10/23, 9:57 AM",
+    "heartbeat": "22m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -756,7 +756,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/23, 9:52 AM",
+    "updatedAt": "10/23, 9:57 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -810,7 +810,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
+    "updatedAt": "10/23, 9:57 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -873,7 +873,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/23, 9:52 AM",
+    "updatedAt": "10/23, 9:57 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
