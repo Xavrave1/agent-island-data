@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792823229414,
- "treasury": 955.48,
+ "ts": 1792823528575,
+ "treasury": 955.11,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$955.48"
+      "value": "$955.11"
      },
      {
       "label": "In bot books",
-      "value": "$936.53"
+      "value": "$936.16"
      },
      {
       "label": "Shared fund here",
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/23, 10:58 PM",
-      "text": "Council: hold; DIAGNOSED: Pulse Lab churning (19 trades, $-3.38): tightened size to 0.35x"
-     },
-     {
       "time": "10/23, 11:13 PM",
       "text": "Council: hold; DIAGNOSED: Pulse Lab churning (19 trades, $-3.38): tightened size to 0.35x"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/24, 12:13 AM",
       "text": "Council: hold; DIAGNOSED: Pulse Lab churning (19 trades, $-3.38): tightened size to 0.35x"
+     },
+     {
+      "time": "10/24, 12:28 AM",
+      "text": "Council: hold; DIAGNOSED: Pulse Lab churning (19 trades, $-3.38): tightened size to 0.35x"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +129,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 75.55,
+   "balance": 75.18,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$75.55"
+      "value": "$75.18"
      },
      {
       "label": "Council allocation",
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-5.89%"
+      "value": "-6.35%"
      },
      {
       "label": "Council status",
@@ -162,7 +162,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SEI SHORT 5x",
-      "value": "$83.91 in, now $75.55"
+      "value": "$83.91 in, now $75.18"
      }
     ],
     "events": [
@@ -171,8 +171,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -195,7 +195,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+2.56%"
+      "value": "+3.73%"
      },
      {
       "label": "Council status",
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "15h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -329,7 +329,7 @@ window.AgentIslandData = {
       "text": "Portfolio $49.00 total"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "9h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -353,7 +353,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-3.58%"
+      "value": "-4.59%"
      },
      {
       "label": "Council status",
@@ -396,8 +396,8 @@ window.AgentIslandData = {
       "text": "entry momentum: SHORT WLD"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -420,7 +420,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+19.98%"
+      "value": "+19.47%"
      },
      {
       "label": "Council status",
@@ -442,8 +442,8 @@ window.AgentIslandData = {
       "text": "exit tp: SHORT XMR +2.37"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -489,10 +489,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/23, 11:00 AM",
-      "text": "exit SL: SHORT AERO -0.44"
-     },
-     {
       "time": "10/23, 2:00 PM",
       "text": "entry breakout: SHORT FARTCOIN"
      },
@@ -521,8 +517,8 @@ window.AgentIslandData = {
       "text": "entry breakout: LONG TIA"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -545,7 +541,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.47%"
+      "value": "-0.41%"
      },
      {
       "label": "Council status",
@@ -595,8 +591,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT ENA +0.33"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -678,8 +674,8 @@ window.AgentIslandData = {
       "text": "Bet TEN (CLE@TEN) $5 @ 0.455, edge +13.8%"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/24, 12:32 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -707,7 +703,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -761,7 +757,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -824,7 +820,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/24, 12:27 AM",
+    "updatedAt": "10/24, 12:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
