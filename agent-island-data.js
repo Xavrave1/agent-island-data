@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792862829499,
- "treasury": 964.05,
+ "ts": 1792863129240,
+ "treasury": 964.2,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$964.05"
+      "value": "$964.20"
      },
      {
       "label": "In bot books",
-      "value": "$945.10"
+      "value": "$945.25"
      },
      {
       "label": "Shared fund here",
@@ -51,10 +51,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/24, 9:58 AM",
-      "text": "Council: hold; DIAGNOSED: Pulse Lab churning (8 trades, $-1.83): tightened size to 0.7x"
-     },
-     {
       "time": "10/24, 10:13 AM",
       "text": "Council: hold; DIAGNOSED: Pulse Lab churning (8 trades, $-1.83): tightened size to 0.7x"
      },
@@ -73,9 +69,13 @@ window.AgentIslandData = {
      {
       "time": "10/24, 11:13 AM",
       "text": "Council: shift $6 of shared fund to Chef's Kitchen (win streak x8)"
+     },
+     {
+      "time": "10/24, 11:28 AM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -84,14 +84,14 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 118.05,
+   "balance": 118.2,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$106.38"
+      "value": "$106.53"
      },
      {
       "label": "Council allocation",
@@ -99,7 +99,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+4.45%"
+      "value": "+4.59%"
      },
      {
       "label": "Council status",
@@ -117,11 +117,11 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "TIA SHORT 3x",
-      "value": "$30.00 in, now $31.51"
+      "value": "$30.00 in, now $31.66"
      }
     ],
     "events": [],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -167,8 +167,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -250,7 +250,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "1d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -274,7 +274,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.12%"
+      "value": "+0.00%"
      },
      {
       "label": "Council status",
@@ -325,8 +325,8 @@ window.AgentIslandData = {
       "text": "Portfolio $49.00 total"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "16m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "21m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -379,8 +379,8 @@ window.AgentIslandData = {
       "text": "exit TP: SHORT WLD +0.20"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -445,8 +445,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG ANIME -1.09"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -477,7 +477,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "1.0x"
      },
      {
       "label": "Rule",
@@ -499,8 +499,8 @@ window.AgentIslandData = {
       "text": "exit TP: SHORT FARTCOIN +0.16"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -523,7 +523,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.59%"
+      "value": "-0.56%"
      },
      {
       "label": "Council status",
@@ -582,8 +582,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT SUI"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -665,8 +665,8 @@ window.AgentIslandData = {
       "text": "Bet TEN (CLE@TEN) $5 @ 0.455, edge +13.8%"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/24, 11:32 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -694,7 +694,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -748,7 +748,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -811,7 +811,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/24, 11:27 AM",
+    "updatedAt": "10/24, 11:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -833,11 +833,6 @@ window.AgentIslandData = {
    "from": "market",
    "to": "townhall",
    "text": "Vote: Chef's Kitchen"
-  },
-  {
-   "from": "townhall",
-   "to": "kitchen",
-   "text": "Council sends $5 your way"
   }
  ]
 };
