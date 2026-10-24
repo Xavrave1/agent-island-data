@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792851434544,
- "treasury": 964.23,
+ "ts": 1792851733174,
+ "treasury": 959.87,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$964.23"
+      "value": "$959.87"
      },
      {
       "label": "In bot books",
-      "value": "$945.28"
+      "value": "$940.92"
      },
      {
       "label": "Shared fund here",
@@ -75,7 +75,7 @@ window.AgentIslandData = {
       "text": "Council: hold; DIAGNOSED: Pulse Lab churning (12 trades, $-5.19): tightened size to 0.7x | Surge Lab churning (7 trades, $-2.06): tightened size to 0.52x"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -84,14 +84,14 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 107.03,
+   "balance": 106.81,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$101.85"
+      "value": "$101.63"
      },
      {
       "label": "Council allocation",
@@ -99,7 +99,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.01%"
+      "value": "-0.23%"
      },
      {
       "label": "Council status",
@@ -114,25 +114,34 @@ window.AgentIslandData = {
       "value": "Entries need Mala + ChatGPT + Gemini to approve"
      }
     ],
-    "positions": [],
+    "positions": [
+     {
+      "label": "FARTCOIN SHORT 3x",
+      "value": "$30.00 in, now $29.84"
+     },
+     {
+      "label": "TIA SHORT 3x",
+      "value": "$30.00 in, now $29.93"
+     }
+    ],
     "events": [],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "just now",
     "health": "Healthy",
-    "queueDepth": 0
+    "queueDepth": 2
    }
   },
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 86.45,
+   "balance": 82.31,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$86.45"
+      "value": "$82.31"
      },
      {
       "label": "Council allocation",
@@ -140,7 +149,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+7.69%"
+      "value": "+2.53%"
      },
      {
       "label": "Council status",
@@ -157,8 +166,8 @@ window.AgentIslandData = {
     ],
     "positions": [
      {
-      "label": "TAO SHORT 5x",
-      "value": "$83.94 in, now $86.45"
+      "label": "UNI SHORT 5x",
+      "value": "$84.05 in, now $82.31"
      }
     ],
     "events": [
@@ -167,8 +176,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "5m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -250,7 +259,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "23h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -325,8 +334,8 @@ window.AgentIslandData = {
       "text": "Portfolio $49.00 total"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -387,7 +396,7 @@ window.AgentIslandData = {
       "text": "exit TP: SHORT WLD +0.20"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
@@ -446,8 +455,8 @@ window.AgentIslandData = {
       "text": "entry funding-fade: LONG ZORA"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -508,8 +517,8 @@ window.AgentIslandData = {
       "text": "exit TIME: LONG TIA -0.20"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -591,8 +600,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT GRAM"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -674,8 +683,8 @@ window.AgentIslandData = {
       "text": "Bet TEN (CLE@TEN) $5 @ 0.455, edge +13.8%"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
-    "heartbeat": "13m ago",
+    "updatedAt": "10/24, 8:22 AM",
+    "heartbeat": "18m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -703,7 +712,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -757,7 +766,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -820,7 +829,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/24, 8:17 AM",
+    "updatedAt": "10/24, 8:22 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
