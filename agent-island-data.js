@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1792968136795,
- "treasury": 952.15,
+ "ts": 1792968433748,
+ "treasury": 952.06,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$952.15"
+      "value": "$952.06"
      },
      {
       "label": "In bot books",
-      "value": "$933.20"
+      "value": "$933.11"
      },
      {
       "label": "Shared fund here",
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/25, 3:13 PM",
-      "text": "Council: hold"
-     },
-     {
       "time": "10/25, 3:28 PM",
       "text": "Council: hold"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/25, 4:28 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/25, 4:43 PM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -121,11 +121,11 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "XMR SHORT 2x",
-      "value": "$3.24 in, now $3.23"
+      "value": "$3.24 in, now $3.24"
      },
      {
       "label": "ONDO LONG 2x",
-      "value": "$3.24 in, now $3.26"
+      "value": "$3.24 in, now $3.25"
      },
      {
       "label": "WLD SHORT 2x",
@@ -133,7 +133,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 3
@@ -142,14 +142,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 74.56,
+   "balance": 74.47,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$74.56"
+      "value": "$74.47"
      },
      {
       "label": "Council allocation",
@@ -157,7 +157,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-7.46%"
+      "value": "-7.88%"
      },
      {
       "label": "Council status",
@@ -175,7 +175,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "POPCAT LONG 3x",
-      "value": "$84.42 in, now $74.56"
+      "value": "$84.42 in, now $74.47"
      }
     ],
     "events": [
@@ -184,8 +184,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -267,7 +267,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "2d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -330,8 +330,8 @@ window.AgentIslandData = {
       "text": "Portfolio $49.00 total"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "31m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "36m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -371,8 +371,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -412,8 +412,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -491,8 +491,8 @@ window.AgentIslandData = {
       "text": "exit SL: LONG INJ -0.41"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -515,7 +515,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.01%"
+      "value": "+0.04%"
      },
      {
       "label": "Council status",
@@ -523,7 +523,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "1.0x"
      },
      {
       "label": "Rule",
@@ -574,8 +574,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT SOL"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -665,8 +665,8 @@ window.AgentIslandData = {
       "text": "Bet BAL (BAL@BUF) $5 @ 0.370, edge +13.0%"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
-    "heartbeat": "8m ago",
+    "updatedAt": "10/25, 4:47 PM",
+    "heartbeat": "13m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -694,7 +694,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -748,7 +748,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -811,7 +811,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/25, 4:42 PM",
+    "updatedAt": "10/25, 4:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -822,7 +822,7 @@ window.AgentIslandData = {
   {
    "from": "kitchen",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Duo House"
   },
   {
    "from": "beacon",
