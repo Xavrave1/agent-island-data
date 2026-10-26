@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793051832593,
- "treasury": 951.32,
+ "ts": 1793052129345,
+ "treasury": 951.91,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$951.32"
+      "value": "$951.91"
      },
      {
       "label": "In bot books",
-      "value": "$932.37"
+      "value": "$932.96"
      },
      {
       "label": "Shared fund here",
@@ -32,7 +32,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Council winner",
-      "value": "Anchor House"
+      "value": "Flawless Tower"
      },
      {
       "label": "Paused by council",
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/26, 2:28 PM",
-      "text": "Council: hold"
-     },
-     {
       "time": "10/26, 2:43 PM",
       "text": "Council: hold"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/26, 3:43 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/26, 3:58 PM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -103,7 +103,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-3.04%"
+      "value": "-2.87%"
      },
      {
       "label": "Council status",
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +129,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 77.98,
+   "balance": 78.57,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$76.31"
+      "value": "$76.90"
      },
      {
       "label": "Council allocation",
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+7.93%"
+      "value": "+7.52%"
      },
      {
       "label": "Council status",
@@ -162,7 +162,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SAND LONG 5x",
-      "value": "$84.64 in, now $76.31"
+      "value": "$84.64 in, now $76.90"
      }
     ],
     "events": [
@@ -171,8 +171,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "3d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -304,7 +304,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "6h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -345,8 +345,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -419,8 +419,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG BABY -2.22"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -478,8 +478,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT ZRO"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -502,7 +502,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.04%"
+      "value": "-0.02%"
      },
      {
       "label": "Council status",
@@ -561,8 +561,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT FARTCOIN"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -652,8 +652,8 @@ window.AgentIslandData = {
       "text": "Bet CAR (CAR@GB) $5 @ 0.345, edge +15.5%"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/26, 4:02 PM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -681,7 +681,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -735,7 +735,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -798,7 +798,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/26, 3:57 PM",
+    "updatedAt": "10/26, 4:02 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -809,7 +809,7 @@ window.AgentIslandData = {
   {
    "from": "kitchen",
    "to": "townhall",
-   "text": "Vote: Anchor House"
+   "text": "Vote: Flawless Tower"
   },
   {
    "from": "beacon",
@@ -819,7 +819,7 @@ window.AgentIslandData = {
   {
    "from": "market",
    "to": "townhall",
-   "text": "Vote: Anchor House"
+   "text": "Vote: Flawless Tower"
   }
  ]
 };
