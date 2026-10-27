@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793091431035,
- "treasury": 938.62,
+ "ts": 1793091729105,
+ "treasury": 938.8,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$938.62"
+      "value": "$938.80"
      },
      {
       "label": "In bot books",
-      "value": "$919.67"
+      "value": "$919.85"
      },
      {
       "label": "Shared fund here",
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/27, 1:28 AM",
-      "text": "Council: hold; DIAGNOSED: Anchor House big bleed ($-3.45 worst trade): size cut to 0.62x"
-     },
-     {
       "time": "10/27, 1:43 AM",
       "text": "Council: hold; DIAGNOSED: Anchor House big bleed ($-3.45 worst trade): size cut to 0.62x"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/27, 2:43 AM",
       "text": "Council: hold; DIAGNOSED: Anchor House churning (6 trades, $-1.02): tightened size to 0.35x | Anchor House big bleed ($-3.45 worst trade): size cut to 0.17x"
+     },
+     {
+      "time": "10/27, 2:58 AM",
+      "text": "Council: hold; DIAGNOSED: Anchor House churning (6 trades, $-1.02): tightened size to 0.35x | Anchor House big bleed ($-3.45 worst trade): size cut to 0.17x"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -103,7 +103,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.21%"
+      "value": "+0.22%"
      },
      {
       "label": "Council status",
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +129,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 70.14,
+   "balance": 70.32,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$70.14"
+      "value": "$70.32"
      },
      {
       "label": "Council allocation",
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-8.19%"
+      "value": "-9.04%"
      },
      {
       "label": "Council status",
@@ -162,7 +162,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SAND LONG 5x",
-      "value": "$84.64 in, now $70.14"
+      "value": "$84.64 in, now $70.32"
      }
     ],
     "events": [
@@ -171,8 +171,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/27, 3:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "3d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -304,7 +304,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "17h ago",
     "health": "Stale",
     "queueDepth": 2
@@ -345,7 +345,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
@@ -369,7 +369,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.43%"
+      "value": "-2.53%"
      },
      {
       "label": "Council status",
@@ -403,8 +403,8 @@ window.AgentIslandData = {
       "text": "exit sl: LONG NIL -2.79"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/27, 3:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -453,8 +453,8 @@ window.AgentIslandData = {
       "text": "exit TIME: SHORT ZRO +0.04"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/27, 3:02 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -477,7 +477,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.40%"
+      "value": "-0.38%"
      },
      {
       "label": "Council status",
@@ -520,8 +520,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT XRP"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/27, 3:02 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -611,8 +611,8 @@ window.AgentIslandData = {
       "text": "Bet CAR (CAR@GB) $5 @ 0.345, edge +15.5%"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/27, 3:02 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -640,7 +640,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -694,7 +694,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -757,7 +757,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/27, 2:57 AM",
+    "updatedAt": "10/27, 3:02 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
