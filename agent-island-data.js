@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793257331283,
- "treasury": 923.37,
+ "ts": 1793257629690,
+ "treasury": 922.96,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$923.37"
+      "value": "$922.96"
      },
      {
       "label": "In bot books",
-      "value": "$904.42"
+      "value": "$904.01"
      },
      {
       "label": "Shared fund here",
@@ -79,7 +79,7 @@ window.AgentIslandData = {
       "text": "Council: hold; DIAGNOSED: Surge Lab churning (5 trades, $-1.50): tightened size to 0.52x"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -88,14 +88,14 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 114.51,
+   "balance": 114.79,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$102.84"
+      "value": "$103.12"
      },
      {
       "label": "Council allocation",
@@ -103,7 +103,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+1.35%"
+      "value": "+1.63%"
      },
      {
       "label": "Council status",
@@ -121,11 +121,11 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "NEAR SHORT 3x",
-      "value": "$30.00 in, now $29.62"
+      "value": "$30.00 in, now $29.89"
      }
     ],
     "events": [],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -134,14 +134,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 61.09,
+   "balance": 60.4,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$61.09"
+      "value": "$60.40"
      },
      {
       "label": "Council allocation",
@@ -149,7 +149,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-26.51%"
+      "value": "-27.34%"
      },
      {
       "label": "Council status",
@@ -167,7 +167,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SAND LONG 5x",
-      "value": "$84.64 in, now $61.09"
+      "value": "$84.64 in, now $60.40"
      }
     ],
     "events": [
@@ -176,8 +176,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -259,7 +259,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "5d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -309,7 +309,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "2d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -350,8 +350,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -391,8 +391,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -454,8 +454,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT ADA"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -537,8 +537,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT UNI"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -628,8 +628,8 @@ window.AgentIslandData = {
       "text": "Bet CAR (CAR@GB) $5 @ 0.345, edge +15.5%"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
-    "heartbeat": "28m ago",
+    "updatedAt": "10/29, 1:07 AM",
+    "heartbeat": "3m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -657,7 +657,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -707,7 +707,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -770,7 +770,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/29, 1:02 AM",
+    "updatedAt": "10/29, 1:07 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
