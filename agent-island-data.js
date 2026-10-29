@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793234614885,
- "treasury": 935.89,
+ "ts": 1793234831996,
+ "treasury": 935.84,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$935.89"
+      "value": "$935.84"
      },
      {
       "label": "In bot books",
-      "value": "$916.94"
+      "value": "$916.89"
      },
      {
       "label": "Shared fund here",
@@ -36,7 +36,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Paused by council",
-      "value": "The Sportsbook, Anchor House"
+      "value": "The Sportsbook, Anchor House, Flawless Tower"
      },
      {
       "label": "Retired",
@@ -54,10 +54,6 @@ window.AgentIslandData = {
      }
     ],
     "events": [
-     {
-      "time": "10/28, 5:13 PM",
-      "text": "Council: hold"
-     },
      {
       "time": "10/28, 5:28 PM",
       "text": "Council: hold"
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/28, 6:28 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/28, 6:43 PM",
+      "text": "Council: hold; AUTO-PAUSED Flawless Tower (down >5% in 24h)"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +129,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 73.21,
+   "balance": 73.16,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$73.21"
+      "value": "$73.16"
      },
      {
       "label": "Council allocation",
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-2.58%"
+      "value": "-6.02%"
      },
      {
       "label": "Council status",
@@ -152,7 +152,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -162,7 +162,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SAND LONG 5x",
-      "value": "$84.64 in, now $73.21"
+      "value": "$84.64 in, now $73.16"
      }
     ],
     "events": [
@@ -171,8 +171,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "5d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -304,7 +304,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "2d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -345,8 +345,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -386,8 +386,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "13m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -465,8 +465,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT VVV"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -489,7 +489,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.05%"
+      "value": "+0.10%"
      },
      {
       "label": "Council status",
@@ -539,8 +539,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT ETH -0.03"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -630,8 +630,8 @@ window.AgentIslandData = {
       "text": "Bet CAR (CAR@GB) $5 @ 0.345, edge +15.5%"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "9m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "13m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -659,7 +659,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -713,8 +713,8 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/28, 6:47 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -776,7 +776,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/28, 6:43 PM",
+    "updatedAt": "10/28, 6:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -798,6 +798,11 @@ window.AgentIslandData = {
    "from": "market",
    "to": "townhall",
    "text": "Vote: Chef's Kitchen"
+  },
+  {
+   "from": "townhall",
+   "to": "kitchen",
+   "text": "Council sends $5 your way"
   }
  ]
 };
