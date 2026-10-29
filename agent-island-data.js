@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793238131632,
- "treasury": 928.91,
+ "ts": 1793238431711,
+ "treasury": 928.61,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$928.91"
+      "value": "$928.61"
      },
      {
       "label": "In bot books",
-      "value": "$909.96"
+      "value": "$909.66"
      },
      {
       "label": "Shared fund here",
@@ -35,6 +35,10 @@ window.AgentIslandData = {
       "value": "Chef's Kitchen"
      },
      {
+      "label": "DEFENSIVE MODE",
+      "value": "ON, all sizes halved"
+     },
+     {
       "label": "Paused by council",
       "value": "The Sportsbook, Anchor House, Flawless Tower"
      },
@@ -44,7 +48,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Coin blacklist",
-      "value": "BABY, SOL, SUI"
+      "value": "SOL, SUI"
      }
     ],
     "positions": [
@@ -54,10 +58,6 @@ window.AgentIslandData = {
      }
     ],
     "events": [
-     {
-      "time": "10/28, 6:14 PM",
-      "text": "Council: hold"
-     },
      {
       "time": "10/28, 6:28 PM",
       "text": "Council: hold"
@@ -77,9 +77,13 @@ window.AgentIslandData = {
      {
       "time": "10/28, 7:28 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/28, 7:43 PM",
+      "text": "Council: hold; DEFENSIVE MODE (pot down >3% in 24h, all sizes halved)"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -111,7 +115,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.25x"
+      "value": "0.62x"
      },
      {
       "label": "Rule",
@@ -120,7 +124,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +133,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 66.07,
+   "balance": 65.77,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$66.07"
+      "value": "$65.77"
      },
      {
       "label": "Council allocation",
@@ -152,7 +156,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.5x"
+      "value": "0.25x"
      },
      {
       "label": "Rule",
@@ -162,7 +166,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "SAND LONG 5x",
-      "value": "$84.64 in, now $66.07"
+      "value": "$84.64 in, now $65.77"
      }
     ],
     "events": [
@@ -171,8 +175,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -203,7 +207,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -254,7 +258,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "5d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -286,7 +290,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -304,7 +308,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "2d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -336,7 +340,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -345,8 +349,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -377,7 +381,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "0.38x"
      },
      {
       "label": "Rule",
@@ -386,8 +390,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -418,7 +422,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "0.38x"
      },
      {
       "label": "Rule",
@@ -465,8 +469,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT VVV"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -497,7 +501,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -539,8 +543,8 @@ window.AgentIslandData = {
       "text": "exit REVERTED: SHORT ETH -0.03"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -575,7 +579,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "1.0x"
+      "value": "0.5x"
      },
      {
       "label": "Rule",
@@ -630,8 +634,8 @@ window.AgentIslandData = {
       "text": "Bet CAR (CAR@GB) $5 @ 0.345, edge +15.5%"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
-    "heartbeat": "8m ago",
+    "updatedAt": "10/28, 7:47 PM",
+    "heartbeat": "13m ago",
     "health": "Healthy",
     "queueDepth": 3
    }
@@ -659,7 +663,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -713,7 +717,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -729,7 +733,7 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Fixes in queue",
-      "value": "168"
+      "value": "169"
      },
      {
       "label": "Fixed today",
@@ -745,10 +749,6 @@ window.AgentIslandData = {
      }
     ],
     "positions": [
-     {
-      "label": "Robinhood Brokerage",
-      "value": "Robinhood at $48.42, at the $50 challenge floor"
-     },
      {
       "label": "Robinhood Brokerage",
       "value": "Robinhood at $48.34, at the $50 challenge floor"
@@ -768,6 +768,10 @@ window.AgentIslandData = {
      {
       "label": "Flawless Tower",
       "value": "Flawless Tower in drawdown (-34% from merge start, allocations frozen)"
+     },
+     {
+      "label": "Flawless Tower",
+      "value": "Flawless Tower in drawdown (-35% from merge start, allocations frozen)"
      }
     ],
     "events": [
@@ -776,7 +780,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/28, 7:42 PM",
+    "updatedAt": "10/28, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -798,6 +802,11 @@ window.AgentIslandData = {
    "from": "market",
    "to": "townhall",
    "text": "Vote: Chef's Kitchen"
+  },
+  {
+   "from": "townhall",
+   "to": "kitchen",
+   "text": "Council sends $5 your way"
   }
  ]
 };
