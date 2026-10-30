@@ -1,5 +1,5 @@
 window.AgentIslandData = {
- "ts": 1793366830540,
+ "ts": 1793367136723,
  "treasury": 971.97,
  "buildings": [
   {
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/30, 5:58 AM",
-      "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
-     },
-     {
       "time": "10/30, 6:13 AM",
       "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/30, 7:13 AM",
       "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
+     },
+     {
+      "time": "10/30, 7:28 AM",
+      "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -166,8 +166,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/30, 7:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -249,7 +249,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "6d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -299,7 +299,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "3d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -340,7 +340,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
@@ -381,8 +381,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:27 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/30, 7:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -443,8 +443,8 @@ window.AgentIslandData = {
       "text": "exit SL: SHORT CRV -0.38"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/30, 7:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -526,8 +526,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT ZRO"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/30, 7:32 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -609,8 +609,8 @@ window.AgentIslandData = {
       "text": "Settled CAR@GB:  -5.0"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/30, 7:32 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -638,7 +638,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -688,7 +688,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -751,7 +751,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/30, 7:27 AM",
+    "updatedAt": "10/30, 7:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
