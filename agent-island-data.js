@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793363233178,
- "treasury": 966.39,
+ "ts": 1793363532692,
+ "treasury": 973.16,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$966.39"
+      "value": "$973.16"
      },
      {
       "label": "In bot books",
-      "value": "$966.39"
+      "value": "$973.16"
      },
      {
       "label": "Shared fund here",
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/30, 4:58 AM",
-      "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (11 trades, $-1.71): tightened size to 0.52x"
-     },
-     {
       "time": "10/30, 5:13 AM",
       "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (11 trades, $-1.71): tightened size to 0.52x"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/30, 6:13 AM",
       "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
+     },
+     {
+      "time": "10/30, 6:28 AM",
+      "text": "Council: hold; DIAGNOSED: Surge Lab churning (6 trades, $-1.19): tightened size to 0.52x | Duo House churning (10 trades, $-1.49): tightened size to 0.52x"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -129,14 +129,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 144.95,
+   "balance": 151.72,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$144.95"
+      "value": "$151.72"
      },
      {
       "label": "Council allocation",
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+70.43%"
+      "value": "+78.39%"
      },
      {
       "label": "Council status",
@@ -162,7 +162,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "AVAX SHORT 5x",
-      "value": "$145.73 in, now $144.95"
+      "value": "$145.73 in, now $151.72"
      }
     ],
     "events": [
@@ -171,7 +171,7 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "6d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -304,7 +304,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "3d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -345,8 +345,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 6:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/30, 6:32 AM",
+    "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -386,8 +386,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 6:27 AM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/30, 6:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -428,10 +428,6 @@ window.AgentIslandData = {
     "positions": [],
     "events": [
      {
-      "time": "10/29, 5:09 PM",
-      "text": "entry breakout: SHORT TRX"
-     },
-     {
       "time": "10/29, 7:10 PM",
       "text": "exit SL: SHORT TRX -0.52"
      },
@@ -452,8 +448,8 @@ window.AgentIslandData = {
       "text": "exit SL: SHORT CRV -0.38"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/30, 6:32 AM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -476,7 +472,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-1.77%"
+      "value": "-1.71%"
      },
      {
       "label": "Council status",
@@ -535,8 +531,8 @@ window.AgentIslandData = {
       "text": "entry pair z-score: SHORT ZRO"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/30, 6:32 AM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -618,8 +614,8 @@ window.AgentIslandData = {
       "text": "Settled CAR@GB:  -5.0"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
-    "heartbeat": "23m ago",
+    "updatedAt": "10/30, 6:32 AM",
+    "heartbeat": "28m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -647,7 +643,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -697,7 +693,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -760,7 +756,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/30, 6:27 AM",
+    "updatedAt": "10/30, 6:32 AM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
