@@ -1,5 +1,5 @@
 window.AgentIslandData = {
- "ts": 1793410930364,
+ "ts": 1793411234258,
  "treasury": 983.83,
  "buildings": [
   {
@@ -55,10 +55,6 @@ window.AgentIslandData = {
     ],
     "events": [
      {
-      "time": "10/30, 6:13 PM",
-      "text": "Council: hold"
-     },
-     {
       "time": "10/30, 6:28 PM",
       "text": "Council: hold"
      },
@@ -77,9 +73,13 @@ window.AgentIslandData = {
      {
       "time": "10/30, 7:28 PM",
       "text": "Council: hold"
+     },
+     {
+      "time": "10/30, 7:43 PM",
+      "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -120,7 +120,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -144,7 +144,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+8.94%"
+      "value": "+8.78%"
      },
      {
       "label": "Council status",
@@ -171,8 +171,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "just now",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "5m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -254,7 +254,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "7d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -304,7 +304,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "4d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -345,8 +345,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -386,8 +386,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -427,8 +427,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -451,7 +451,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "+0.09%"
+      "value": "-0.02%"
      },
      {
       "label": "Council status",
@@ -459,7 +459,7 @@ window.AgentIslandData = {
      },
      {
       "label": "Size multiplier",
-      "value": "0.75x"
+      "value": "1.0x"
      },
      {
       "label": "Rule",
@@ -477,8 +477,8 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "2m ago",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "7m ago",
     "health": "Healthy",
     "queueDepth": 2
    }
@@ -560,8 +560,8 @@ window.AgentIslandData = {
       "text": "Settled CAR@GB:  -5.0"
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
-    "heartbeat": "8m ago",
+    "updatedAt": "10/30, 7:47 PM",
+    "heartbeat": "13m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -589,7 +589,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -639,7 +639,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -702,7 +702,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/30, 7:42 PM",
+    "updatedAt": "10/30, 7:47 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
@@ -718,7 +718,7 @@ window.AgentIslandData = {
   {
    "from": "beacon",
    "to": "townhall",
-   "text": "Vote: Market Hall"
+   "text": "Vote: Duo House"
   },
   {
    "from": "market",
