@@ -1,6 +1,6 @@
 window.AgentIslandData = {
- "ts": 1793491629520,
- "treasury": 959.19,
+ "ts": 1793491930617,
+ "treasury": 957.67,
  "buildings": [
   {
    "id": "townhall",
@@ -12,11 +12,11 @@ window.AgentIslandData = {
     "metrics": [
      {
       "label": "Merge pot (paper)",
-      "value": "$959.19"
+      "value": "$957.67"
      },
      {
       "label": "In bot books",
-      "value": "$959.19"
+      "value": "$957.67"
      },
      {
       "label": "Shared fund here",
@@ -79,7 +79,7 @@ window.AgentIslandData = {
       "text": "Council: hold"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -88,14 +88,14 @@ window.AgentIslandData = {
   {
    "id": "kitchen",
    "name": "Chef's Kitchen",
-   "balance": 103.84,
+   "balance": 103.92,
    "status": "working",
    "details": {
     "currentTask": "Council voting on Invo entries",
     "metrics": [
      {
       "label": "Book",
-      "value": "$103.84"
+      "value": "$103.92"
      },
      {
       "label": "Council allocation",
@@ -103,7 +103,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.17%"
+      "value": "-0.10%"
      },
      {
       "label": "Council status",
@@ -121,11 +121,11 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "ZEC SHORT 3x",
-      "value": "$30.00 in, now $29.83"
+      "value": "$30.00 in, now $29.90"
      }
     ],
     "events": [],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
@@ -134,14 +134,14 @@ window.AgentIslandData = {
   {
    "id": "beacon",
    "name": "Flawless Tower",
-   "balance": 138.59,
+   "balance": 137.0,
    "status": "working",
    "details": {
     "currentTask": "One trade at a time, never closes red",
     "metrics": [
      {
       "label": "Book",
-      "value": "$138.59"
+      "value": "$137.00"
      },
      {
       "label": "Council allocation",
@@ -149,7 +149,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-12.51%"
+      "value": "-13.52%"
      },
      {
       "label": "Council status",
@@ -167,7 +167,7 @@ window.AgentIslandData = {
     "positions": [
      {
       "label": "kBONK LONG 5x",
-      "value": "$158.44 in, now $138.59"
+      "value": "$158.44 in, now $137.00"
      }
     ],
     "events": [
@@ -176,8 +176,8 @@ window.AgentIslandData = {
       "text": "Scanner live: sitting out, no qualifying setup"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
-    "heartbeat": "1m ago",
+    "updatedAt": "10/31, 6:12 PM",
+    "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -259,7 +259,7 @@ window.AgentIslandData = {
       "text": "Polymarket YES settled +3.74"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "8d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -309,7 +309,7 @@ window.AgentIslandData = {
      }
     ],
     "events": [],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "5d ago",
     "health": "Stale",
     "queueDepth": 2
@@ -350,7 +350,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "1m ago",
     "health": "Healthy",
     "queueDepth": 0
@@ -391,8 +391,8 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/31, 6:07 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/31, 6:12 PM",
+    "heartbeat": "12m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -400,14 +400,14 @@ window.AgentIslandData = {
   {
    "id": "surge",
    "name": "Surge Lab",
-   "balance": 92.94,
+   "balance": 92.93,
    "status": "working",
    "details": {
     "currentTask": "Riding intraday volatility breakouts, paper",
     "metrics": [
      {
       "label": "Book",
-      "value": "$92.94"
+      "value": "$92.93"
      },
      {
       "label": "Council allocation",
@@ -415,7 +415,7 @@ window.AgentIslandData = {
      },
      {
       "label": "24h run",
-      "value": "-0.17%"
+      "value": "-0.18%"
      },
      {
       "label": "Council status",
@@ -442,8 +442,8 @@ window.AgentIslandData = {
       "text": "entry breakout: SHORT ZEC"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
-    "heartbeat": "7m ago",
+    "updatedAt": "10/31, 6:12 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -492,8 +492,8 @@ window.AgentIslandData = {
       "text": "exit SL_LEG: SHORT ZRO -0.89"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
-    "heartbeat": "12m ago",
+    "updatedAt": "10/31, 6:12 PM",
+    "heartbeat": "2m ago",
     "health": "Healthy",
     "queueDepth": 0
    }
@@ -575,8 +575,8 @@ window.AgentIslandData = {
       "text": "Settled CAR@GB:  -5.0"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
-    "heartbeat": "3m ago",
+    "updatedAt": "10/31, 6:12 PM",
+    "heartbeat": "8m ago",
     "health": "Healthy",
     "queueDepth": 1
    }
@@ -604,7 +604,7 @@ window.AgentIslandData = {
     ],
     "positions": [],
     "events": [],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "\u2014",
     "health": "Stale",
     "queueDepth": 0
@@ -654,7 +654,7 @@ window.AgentIslandData = {
       "text": "Note: The 2026-10-20 07:10 TIA short consensus placement was REJECTED by Hyperliquid (order $7.28 below $10 minimum). No real position was opened."
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 0
@@ -717,7 +717,7 @@ window.AgentIslandData = {
       "text": "Nothing needed fixing"
      }
     ],
-    "updatedAt": "10/31, 6:07 PM",
+    "updatedAt": "10/31, 6:12 PM",
     "heartbeat": "just now",
     "health": "Healthy",
     "queueDepth": 6
